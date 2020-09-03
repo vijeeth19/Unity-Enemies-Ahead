@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3d903e15948511409d84b2d653a76e3, type: 3}
+  m_Name: Elec3 Bullet
+  m_EditorClassIdentifier: 
+  name: Iron Lightning
+  power: Level 3 Electricity Bullet that shocks enemies
+  cost: 70
+  numberOfItems: 40
+  id: 10
+  level: 0
+  image: {fileID: 21300000, guid: a85722f4af2b5e3419d0e3ae1a52cc2f, type: 3}
+  type: 0

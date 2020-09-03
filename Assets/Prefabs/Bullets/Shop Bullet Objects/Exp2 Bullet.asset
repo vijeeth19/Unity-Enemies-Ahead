@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3d903e15948511409d84b2d653a76e3, type: 3}
+  m_Name: Exp2 Bullet
+  m_EditorClassIdentifier: 
+  name: Torpedo
+  power: Level 2 Explosive Bullet that explodes enemies
+  cost: 50
+  numberOfItems: 30
+  id: 12
+  level: 0
+  image: {fileID: 21300000, guid: b26e625678c1d2e4c8e4371db8136e33, type: 3}
+  type: 0

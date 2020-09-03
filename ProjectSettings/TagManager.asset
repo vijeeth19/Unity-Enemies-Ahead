@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - Wave Number
+  - Enemy
+  - Muzzle Holder
+  - Turret
+  - Click Through
+  - Normal Bullet
+  - Poison Bullet
+  - Blue Ice Bullet
+  - Red Ice Bullet
+  - Black Frost
+  - Red Fire Bullet
+  - Blue Flames
+  - Black Blaze
+  - Blue Electricity
+  - Purple Lightning
+  - Iron Lightning
+  - Basic Missile
+  - Torpedo
+  - Super Nuke
+  - Basic Enemy
+  - Dodger Enemy
+  - Jumper Enemy
+  - Sprinter Enemy
+  - Tank Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - GameBoard
+  - Wall
+  - Enemy
+  - SprinterEnemy
+  - BasicEnemy
+  - Turret
+  - TankEnemy
+  - ShootButton
+  - Fort
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
